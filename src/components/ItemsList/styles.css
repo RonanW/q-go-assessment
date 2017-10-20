@@ -1,0 +1,11 @@
+.itemsList-ul {
+  list-style-type: none;
+}
+
+.itemsList-ul li {
+  padding: 5px;
+}
+
+.hidden { 
+  display:none;
+}
